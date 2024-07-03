@@ -1,4 +1,4 @@
-# Curso de Flutter Com Projetos Simples
+# Simple quiz
 
 ## Quiz App
 
